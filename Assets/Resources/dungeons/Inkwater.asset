@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81aa003f230c704f8c5cef2338763c7, type: 3}
+  m_Name: Inkwater
+  m_EditorClassIdentifier: 
+  dungeonName: Inkwater
+  starCount: 6
+  floors:
+  - {fileID: 11400000, guid: ce895b5ad8c1b844e864f56f0b032355, type: 2}
+  - {fileID: 11400000, guid: dc4802a9bdc67c648949bdede36baf86, type: 2}
+  statModifiers: 0000000001000000020000000300000004000000
+  penaltyCheck: 18
+  statPenalty: 5

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52f88e21ffd454846815ec099641ce0f, type: 3}
+  m_Name: floor2RedDragon
+  m_EditorClassIdentifier: 
+  floorData:
+  - {fileID: 11400000, guid: 8f5726ea361bb9d4c8c63f35fd5bb63f, type: 2}
+  - {fileID: 11400000, guid: 43df4850ee9e59b428f1f886607d53da, type: 2}
+  - {fileID: 11400000, guid: 8f5726ea361bb9d4c8c63f35fd5bb63f, type: 2}
+  - {fileID: 11400000, guid: 43df4850ee9e59b428f1f886607d53da, type: 2}
+  - {fileID: 11400000, guid: 8f5726ea361bb9d4c8c63f35fd5bb63f, type: 2}
+  - {fileID: 11400000, guid: 43df4850ee9e59b428f1f886607d53da, type: 2}
+  - {fileID: 11400000, guid: 8f5726ea361bb9d4c8c63f35fd5bb63f, type: 2}
+  - {fileID: 11400000, guid: 43df4850ee9e59b428f1f886607d53da, type: 2}
+  - {fileID: 11400000, guid: 8f5726ea361bb9d4c8c63f35fd5bb63f, type: 2}
+  - {fileID: 11400000, guid: 43df4850ee9e59b428f1f886607d53da, type: 2}

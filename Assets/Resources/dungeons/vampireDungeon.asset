@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81aa003f230c704f8c5cef2338763c7, type: 3}
+  m_Name: vampireDungeon
+  m_EditorClassIdentifier: 
+  dungeonName: Midnight Tomb
+  starCount: 2
+  floors:
+  - {fileID: 11400000, guid: 68a4517544582c4488d65f687fc2e16c, type: 2}
+  - {fileID: 11400000, guid: 64846a4ec999b9545a0ea529c5883d3d, type: 2}
+  - {fileID: 11400000, guid: a20e02a79cf6c544b834beaa8e63604f, type: 2}
+  - {fileID: 11400000, guid: 206a958264fbb0544a9a62d4374ef37e, type: 2}
+  statModifiers: 
+  penaltyCheck: 0
+  statPenalty: 0

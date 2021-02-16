@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81aa003f230c704f8c5cef2338763c7, type: 3}
+  m_Name: mummyDungeon
+  m_EditorClassIdentifier: 
+  dungeonName: Inverted Dungeon
+  starCount: 2
+  floors:
+  - {fileID: 11400000, guid: 5dc0f8ea00edd2944be5e8e82342884a, type: 2}
+  - {fileID: 11400000, guid: 68e8564b2a561994f921ecdeccee8ad3, type: 2}
+  - {fileID: 11400000, guid: 2823dabe8952ce5418c93ec8a5878df6, type: 2}
+  statModifiers: 
+  penaltyCheck: 0
+  statPenalty: 0
